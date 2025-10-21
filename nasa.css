@@ -11,7 +11,7 @@ body {
     align-items: center;
 
     font-family: sans-serif;
-    background-image: url(/images/WhatsApp\ Image\ 2025-10-04\ at\ 15.21.09_75384e3b.jpg);
+    background-image: url(./images/WhatsApp\ Image\ 2025-10-04\ at\ 15.21.09_75384e3b.jpg);
     background-size: 1375px 773.4375px;
 }
 
@@ -161,4 +161,5 @@ p{
 }
 h2{
     color: white;
+
 }
